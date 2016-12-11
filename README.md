@@ -1,2 +1,2 @@
-# ReduxSimpleStarter Example inspired from UDEMY.org.
+# ReduxSimpleStarter Example inspired from UDEMY.org(Stephanie Grider).
 
